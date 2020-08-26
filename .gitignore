@@ -1,0 +1,3 @@
+# Project exclude paths
+/cat-api/target/
+/target/

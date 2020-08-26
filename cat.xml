@@ -1,0 +1,19 @@
+<CatCollection>
+    <cats>
+        <cats>
+            <name>Mara</name>
+            <sex>FEMALE</sex>
+            <nicknames>
+                <nicknames>One eyed Devil</nicknames>
+            </nicknames>
+        </cats>
+        <cats>
+            <name>Yura</name>
+            <sex>MALE</sex>
+            <nicknames>
+                <nicknames>Red Baron</nicknames>
+                <nicknames>The Fat Man</nicknames>
+            </nicknames>
+        </cats>
+    </cats>
+</CatCollection>

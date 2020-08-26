@@ -1,0 +1,19 @@
+{
+  "cats": [
+    {
+      "name": "Mara",
+      "sex": "FEMALE",
+      "nicknames": [
+        "One eyed Devil"
+      ]
+    },
+    {
+      "name": "Yura",
+      "sex": "MALE",
+      "nicknames": [
+        "Red Baron",
+        "The Fat Man"
+      ]
+    }
+  ]
+}
